@@ -1,0 +1,92 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Spicy Chicken Stir Fry",
+    "image": "https://i.postimg.cc/d0wKSJRz/chicken-skewers-with-slices-apples-chili.jpg",
+    "short_description": "A quick and flavorful chicken stir fry with vegetables.",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml soy sauce",
+      "1 tbsp garlic paste",
+      "200 g bell pepper",
+      "2 tbsp vegetable oil"
+    ],
+    "preparing_time": "30 min",
+    "calories": "320 calories"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Basil Mushroom Pasta",
+    "image": "https://i.postimg.cc/rmYXmx6k/ai-generated-pasta.jpg",
+    "short_description": "Creamy pasta tossed with fresh basil and sautéed mushrooms.",
+    "ingredients": [
+      "200 g pasta",
+      "400 g mushroom",
+      "200 g basil leaf",
+      "100 ml cream",
+      "1 tbsp olive oil"
+    ],
+    "preparing_time": "25 min",
+    "calories": "450 calories"
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Grilled Fish Tacos",
+    "image": "https://i.postimg.cc/DzRpMTXq/mexican-food-concept-high-angle.jpg",
+    "short_description": "Fresh grilled fish served in soft tortillas with toppings.",
+    "ingredients": [
+      "300 g white fish",
+      "1 lime",
+      "100 g cabbage",
+      "6 small tortillas",
+      "2 tbsp sour cream"
+    ],
+    "preparing_time": "20 min",
+    "calories": "290 calories"
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Vegetable Fried Rice",
+    "image": "https://i.postimg.cc/hPJzSRzJ/a85bddf8-14c3-46a4-9fb4-ec6cb841f998.jpg",
+    "short_description": "Classic fried rice with mixed vegetables and soy sauce.",
+    "ingredients": [
+      "2 cups cooked rice",
+      "150 g carrots",
+      "100 g green peas",
+      "2 eggs",
+      "3 tbsp soy sauce"
+    ],
+    "preparing_time": "15 min",
+    "calories": "350 calories"
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Beef Curry",
+    "image": "https://i.postimg.cc/L6ZXckwL/eaec6cda-4fff-4c53-a1f8-d2626d2a9e4f.jpg",
+    "short_description": "Slow-cooked beef curry rich with spices and herbs.",
+    "ingredients": [
+      "500 g beef",
+      "2 onions",
+      "3 tbsp curry powder",
+      "1 tbsp garlic paste",
+      "100 ml coconut milk"
+    ],
+    "preparing_time": "45 min",
+    "calories": "600 calories"
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Avocado Toast",
+    "image": "https://i.postimg.cc/ydd6v00J/delicious-toast-with-veggie-cream-flat-lay.jpg",
+    "short_description": "A simple and healthy breakfast with mashed avocado on toast.",
+    "ingredients": [
+      "2 slices bread",
+      "1 ripe avocado",
+      "1 tsp lemon juice",
+      "Salt to taste",
+      "Chili flakes (optional)"
+    ],
+    "preparing_time": "10 min",
+    "calories": "250 calories"
+  }
+]
