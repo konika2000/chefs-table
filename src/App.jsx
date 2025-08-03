@@ -55,7 +55,12 @@ function App() {
            <Recipes addRecipeQueue={addRecipeQueue}></Recipes>    
 
         {/* Side bar */}
-          <Sidebar handleRemove={handleRemove} recipeQueue={recipeQueue} preparedRecipe={preparedRecipe} calculateTimeAndCalories={calculateTimeAndCalories} totalTime={totalTime} totalCalories={totalCalories}></Sidebar>
+          <Sidebar handleRemove={handleRemove}
+                   recipeQueue={recipeQueue}
+                   preparedRecipe={preparedRecipe} 
+                   calculateTimeAndCalories={calculateTimeAndCalories} 
+                   totalTime={totalTime} 
+                   totalCalories={totalCalories}></Sidebar>
 
       </section>
     </div>
